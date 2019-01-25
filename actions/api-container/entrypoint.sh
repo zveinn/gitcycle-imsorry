@@ -11,7 +11,7 @@ ls -la
 #git status
 
 git remote remove origin
-git remote add origin https://zkynet:2878abea2915ce35961c6f6bbbb1669ca68ccd48@github.com/zkynet/actions.git
+git remote add origin https://zkynet:2878abea2915ce35961c6f6bbbb1669ca68ccd48@github.com/zkynet/gitcycle-imsorry.git
 
 git pull origin master
 
